@@ -1,12 +1,12 @@
 const language = {
   es: {
-    name: "Nombre",
+    from_name: "Nombre",
     send: "Enviar",
     message: "Mensaje",
   },
 
   en: {
-    name: "Name",
+    from_name: "Name",
     send: "Send",
     message: "Message",
   },

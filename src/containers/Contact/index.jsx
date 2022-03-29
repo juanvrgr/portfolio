@@ -58,7 +58,7 @@ export default function Contact({ language }) {
         <input
           type="text"
           name="from_name"
-          placeholder={strings[language].name}
+          placeholder={strings[language].from_name}
           className="inputName"
           onChange={handleChange}
           value={form.from_name}
