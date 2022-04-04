@@ -1,10 +1,10 @@
 const language = {
   movie: {
     es: [
-      "Tercer proyecto para el Bootcamp Henry, un equipo de 5 personas desarrollamos una página para administrar un cine, con panel de admin con multiples funciones, login, pasarela de pago, entre otras esenciales funcionalidades. Las tecnologías usadas fueron: React.js, Redux, Node.js, Express, Sequelize, PostgreSQL y SASS",
+      "Proyecto grupal hecho para el Henry Bootcamp, una pagina que cualquier cine desearía tener. Register y login, busca por todas las películas que tenemos en estreno (las próximas a estrenar y las mejores calificadas tambien), mira todo el detalle de la película que deseees, apartado para buscar golosinas varias, y obviamente, la posibilidad de agregar tickets para películas y golosinas a nuestro carrito de compras, y una vez que estes listo, podes pagar todo mediante MercadoPago! Además, tenemos un panel de administrador muy completo, para administrar todas las películas, tus golosinas, y tus usuarios. Las tecnologías usadas fueron: React.js, Redux y SASS para el Frontend, y Node.js (Express) con PostgreSQL (conectado via Sequelize) para el Backend.",
     ],
     en: [
-      "Third project for the Henry Bootcamp, with my team of 5 people, we developed a web app to administrate a cinema. It has panel admin, login, payment checkout, and other great additions. The technologies used were: React.js, Redux, Node.js, Express, Sequelize, PostgreSQL and SASS ",
+      "Grupal project carried out for the Henry bootcamp, a page any cinema desires! Register and login, look for all the premiere movies (upcoming and top rated also), see all the movie details, search for our tasty groceries, and of course add tickets or groceries to our shopping cart, and once you are ready you can pay via MercadoPago. Also, we have a complete admin panel, to manage all your movies, groceries and users! The technologies used were: React.js, Redux and SASS for the Frontend and Node.js (Express) with PostgreSQL (connected via Sequelize) for the Backend",
     ],
   },
   dogs: {
