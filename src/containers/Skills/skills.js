@@ -47,7 +47,7 @@ const skills = {
     },
     {
       title: "Sequelize",
-      logo: "http://assets.stickpng.com/images/58482ee4cef1014c0b5e4a75.png",
+      logo: "https://sequelize.org/img/logo.svg",
     },
   ],
 };
