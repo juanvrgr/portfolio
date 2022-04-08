@@ -17,15 +17,15 @@ export default function Nav({ switchMode, changeLanguage }) {
     displayLanguages();
   };
 
-  const showThanks = () => {
-    const none = document.querySelector(".d-none");
-    const move = document.querySelector(".move");
-    none ? (none.className = "move") : (move.className = "d-none");
-  };
+  // const showThanks = () => {
+  //   const none = document.querySelector(".d-none");
+  //   const move = document.querySelector(".move");
+  //   none ? (none.className = "move") : (move.className = "d-none");
+  // };
 
   return (
     <StyledNav className="Nav">
-      <div className="logo" onClick={showThanks}>
+      <div className="logo">
         <h1 className="logoH1">{"<>"}</h1>
       </div>
       <div className="d-none">
