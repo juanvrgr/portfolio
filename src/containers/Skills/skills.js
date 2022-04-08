@@ -41,6 +41,11 @@ const skills = {
         "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png",
     },
     {
+      title: "MongoDB",
+      logo:
+        "https://www.ideematic.com/wp-content/uploads/2018/02/mongodb-logo-300x208.png",
+    },
+    {
       title: "Node.js",
       logo:
         "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png",
