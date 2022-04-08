@@ -10,7 +10,7 @@ const skills = {
     },
     {
       title: "Solidity",
-      logo: "https://solidity-es.readthedocs.io/es/latest/_images/logo.svg",
+      logo: "https://losmejorescursosde.com/wp-content/uploads/2021/09/solidity.png",
     },
   ],
   front: [
