@@ -7,6 +7,14 @@ const language = {
       "Group project carried out for the Henry bootcamp, a page any cinema desires! Register and login, look for all the premiere movies (upcoming and top rated also), see all the movie details, search for our tasty groceries, and of course add tickets or groceries to our shopping cart, and once you are ready you can pay via MercadoPago. Also, we have a complete admin panel, to manage all your movies, groceries and users! The technologies used were: React.js, Redux and SASS for the Frontend and Node.js (Express) with PostgreSQL (connected via Sequelize) for the Backend",
     ],
   },
+  crypto: {
+    es: [
+      "Proyecto personal, usé la API de CoinGecko, en ésta aplicación podés ver todos los precios de las criptomonedas a tiempo real en órden por ranking. Si apretas en cualquier crypto, podes ver el gráfico y filtrarlo por diferentes días, meses o todos los tiempos, además podes agregarlo a tus favoritos. Te ofrece también crear tu propio portafolio para hacer seguimiento de todos tus cryptos, y su cotización a tiempo real. Las tecnologías usadas fueron: React Native, Expo, React Navigation y Recoil.",
+    ],
+    en: [
+      "Personal project, used the CoinGecko API, you can see all cryptocurrency price in real time in ranking order. If you tap on any token, you can see the chart and filter by different days, months or all time, and also add it to your watchlist! Also you can create your own portfolio to track all your tokens and the price in real time. The technologies used were: React Native, Expo, React Navigation and Recoil.",
+    ],
+  },
   dogs: {
     es: [
       "Segundo projecto realizado para el bootcamp Henry, en el cual puedes buscar razas de perro por nombre, ver su información y ademas agregar tus propias razas!",

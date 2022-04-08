@@ -7,6 +7,12 @@ const projectsList = [
     img: "",
   },
   {
+    id: "crypto",
+    title: "Crypto App",
+    repo: "https://github.com/juanvrgr/cryptoapp",
+    img: "https://i.imgur.com/xmgkMbS.png",
+  },
+  {
     id: "dogs",
     title: "Dogs App",
     repo: "https://github.com/juanvrgr/DogsApp",
