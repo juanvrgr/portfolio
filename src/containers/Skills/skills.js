@@ -8,6 +8,10 @@ const skills = {
       title: "TypeScript",
       logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
     },
+    {
+      title: "Solidity",
+      logo: "https://solidity-es.readthedocs.io/es/latest/_images/logo.svg",
+    },
   ],
   front: [
     {
