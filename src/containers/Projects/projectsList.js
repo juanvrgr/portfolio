@@ -4,7 +4,7 @@ const projectsList = [
     title: "Movie Mark",
     repo: "https://github.com/CandelaPedelhez/Moviemark",
     link: "https://www.youtube.com/watch?v=j1T8vVoPyCU",
-    img: "",
+    img: "https://i.imgur.com/y3cUQMY.png",
   },
   {
     id: "crypto",
