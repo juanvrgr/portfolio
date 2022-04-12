@@ -10,6 +10,7 @@ const projectsList = [
     id: "crypto",
     title: "Crypto App",
     repo: "https://github.com/juanvrgr/cryptoapp",
+    link: "https://www.youtube.com/watch?v=E1vai-zPxo8",
     img: "https://i.imgur.com/xmgkMbS.png",
   },
   {
