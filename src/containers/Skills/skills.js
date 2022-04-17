@@ -8,10 +8,10 @@ const skills = {
       title: "TypeScript",
       logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
     },
-    // {
-    //   title: "Solidity",
-    //   logo: "https://losmejorescursosde.com/wp-content/uploads/2021/09/solidity.png",
-    // },
+    {
+      title: "Solidity",
+      logo: "https://losmejorescursosde.com/wp-content/uploads/2021/09/solidity.png",
+    },
   ],
   front: [
     {
