@@ -34,12 +34,12 @@ export const Projects = ({ language }) => {
 
               <div className="utils">
                 {el.repo ? (
-                  <a href={el.repo} className="links" className="icon">
+                  <a href={el.repo} className="links" className="icon" target="_blank">
                     <img src={github} alt="github logo" />
                   </a>
                 ) : null}
                 {el.link ? (
-                  <a href={el.link} className="links" className="icon">
+                  <a href={el.link} className="links" className="icon" target="_blank">
                     <img src={arrow} alt="" />
                   </a>
                 ) : null}
