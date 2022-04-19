@@ -14,13 +14,13 @@ export default function Home({ language, dark }) {
   return (
     <StyledHome id="Home" dark={dark}>
       <div className="social">
-        <a href={links.github}>
+        <a href={links.github} target="_blank">
           <img src={github} alt="github logo" className="icon" />
         </a>
-        <a href={links.linkedin}>
+        <a href={links.linkedin} target="_blank">
           <img src={linkedin} alt="linkedin logo" className="icon" />
         </a>
-        <a href={links.whatsapp}>
+        <a href={links.whatsapp} target="_blank">
           <img src={whatsapp} alt="whatsapp logo" className="icon" />
         </a>
       </div>
