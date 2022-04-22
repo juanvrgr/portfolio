@@ -7,6 +7,13 @@ const projectsList = [
     img: "https://i.imgur.com/y3cUQMY.png",
   },
   {
+    id: "dapp",
+    title: "USA Vote DAPP",
+    repo: "https://github.com/juanvrgr/backend-dApp",
+    link: "https://waveportal-starter-project.juanvergara5.repl.co/",
+    img: "https://i.imgur.com/ElWH3wL.png",
+  },
+  {
     id: "crypto",
     title: "Crypto App",
     repo: "https://github.com/juanvrgr/cryptoapp",
