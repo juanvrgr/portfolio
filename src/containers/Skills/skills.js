@@ -52,7 +52,7 @@ const skills = {
     {
       title: "Node.js",
       logo:
-        "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRejOysvpHGwUViYHSVR_Uq7jv4mm5FLKsjw&usqp=CAU",
     },
     {
       title: "Sequelize",

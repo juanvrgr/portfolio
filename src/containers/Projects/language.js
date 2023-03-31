@@ -1,4 +1,20 @@
 const language = {
+  real_2: {
+    es: [
+      "Proyecto real. Desarrollo de una aplicación de gestión y planificación de redes sociales. Entre otras funcionalidades, la aplicación permite crear un cliente, conectar hasta siete redes sociales, planificar o publicar instantáneamente con un calendario y seguir tus analíticas a través de todas las APIs de las redes sociales. También incluye un sistema de facturación, blog de la comunidad, sistema de contacto y más. Tecnologías usadas: React, NextJS, TypeScript, Strapi, NodeJS, AWS, Git, Scrum"
+    ],
+    en: [
+      "Real project. Development of a social manager and scheduler application. Among other functionalities, the application let users create a client, connect up to seven social medias, schedule or instant post with a calendar and follow your analytics through all social medias APIs. It also includes a billing system, community blog, contact system and more. Technologies used: React, NextJS, TypeScript, Strapi, NodeJS, AWS, Git, Scrum"
+    ],
+  },
+  real_1: {
+    es: [
+      "Proyecto real. Desarrollé una aplicación móvil en Frontend y Backend para una aplicación que conecta transportistas, con clientes y empresas, para distribución masiva de productos. Tres aplicaciones diferentes, una para cada rol. Chat Bot, Scanner QR, Geolocalización, Notificaciones Push, Subida de Documentos, etc. Usé React Native (Expo) NodeJS, MySQL, Docker, Git"
+    ],
+    en: [
+      "Real project. Developed mobile app in Frontend and Backend for mobile and web app for an application that connects carriers, with clients and companies, for mass product distribution. Three different apps, one for each role. Chat Bot, QR scanner, Geolocation, Push Notifications, Document Upload, etc. Used React Native (Expo) NodeJS, MySQL, Docker, Git"
+    ],
+  },
   movie: {
     es: [
       "Proyecto grupal hecho para el Henry Bootcamp, una pagina que cualquier cine desearía tener. Register y login, busca por todas las películas que tenemos en estreno (las próximas a estrenar y las mejores calificadas tambien), mira todo el detalle de la película que deseees, apartado para buscar golosinas varias, y obviamente, la posibilidad de agregar tickets para películas y golosinas a nuestro carrito de compras, y una vez que estes listo, podes pagar todo mediante MercadoPago! Además, tenemos un panel de administrador muy completo, para administrar todas las películas, tus golosinas, y tus usuarios. Las tecnologías usadas fueron: React.js, Redux y SASS para el Frontend, y Node.js (Express) con PostgreSQL (conectado via Sequelize) para el Backend.",

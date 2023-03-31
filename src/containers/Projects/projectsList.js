@@ -1,5 +1,19 @@
 const projectsList = [
   {
+    id: "real_2",
+    title: "Second Real Project",
+    repo: "",
+    link: "",
+    img: "https://i.imgur.com/Xxs8xDz.png"
+  },
+  {
+    id: "real_1",
+    title: "First Real Project",
+    repo: "",
+    link: "",
+    img: "https://i.imgur.com/5kbyWu7.png"
+  },
+  {
     id: "movie",
     title: "Movie Mark",
     repo: "https://github.com/CandelaPedelhez/Moviemark",
@@ -10,7 +24,7 @@ const projectsList = [
     id: "dapp",
     title: "USA Vote DAPP",
     repo: "https://github.com/juanvrgr/backend-dApp",
-    link: "https://waveportal-starter-project.juanvergara5.repl.co/",
+    //link: "https://waveportal-starter-project.juanvergara5.repl.co/",
     img: "https://i.imgur.com/ElWH3wL.png",
   },
   {
