@@ -19,6 +19,10 @@ const skills = {
       logo: "https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png",
     },
     {
+      title: "Next.js",
+      logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7gmv65nxUV9rPmaJRuu4GL77Czoqvh9Qv0g&usqp=CAU"
+    },
+    {
       title: "Redux",
       logo: "https://img.icons8.com/color/452/redux.png",
     },
@@ -35,6 +39,10 @@ const skills = {
     {
       title: "SASS",
       logo: "https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"
+    },
+    {
+      title: "TailwindCSS",
+      logo: "https://image.pngaaa.com/779/6447779-middle.png"
     }
   ],
 
