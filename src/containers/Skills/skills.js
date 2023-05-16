@@ -61,6 +61,10 @@ const skills = {
     {
       title: "AWS",
       logo: "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+    },
+    {
+      title: "Docker",
+      logo: "https://www.zadara.com/wp-content/uploads/docker.png"
     }
   ],
 };
