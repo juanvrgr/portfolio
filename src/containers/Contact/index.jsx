@@ -3,9 +3,11 @@ import emailjs from "emailjs-com";
 import { StyledContact } from "../styled/StyledContact";
 import strings from "./language.js";
 
-export default function Contact({ language }) {
-  const { REACT_APP_SERVICE, REACT_APP_TEMPLATE, REACT_APP_USER } = process.env;
+const REACT_APP_SERVICE = 'service_4k00t4k';
+const REACT_APP_TEMPLATE = 'template_glmyj8t';
+const REACT_APP_USER = '-xQ0b23CwZZQMIOap';
 
+export default function Contact({ language }) {
   const [form, setForm] = useState({
     from_name: "",
     from_email: "",
