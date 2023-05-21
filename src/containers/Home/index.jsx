@@ -33,7 +33,17 @@ export default function Home({ language, dark }) {
             </span>
           ))}
         </h1>
-        <h2 className="subtitle">{strings[language].subtitle}</h2>
+        <h2 className="subtitle">
+          {strings[language].subtitle}{" "}
+          {
+            language === 'en' &&
+            <span style={{ color: "rgba(122, 170, 215, 0.8)" }}>+2 years of experience</span>
+          }
+          {
+            language === 'es' &&
+            <span style={{ color: "rgba(122, 170, 215, 0.8)" }}>+2 años de experiencia</span>
+          }
+        </h2>
         <p className="data">
           {strings[language].data.map((el, i) => (
             <span key={language + i}>
