@@ -13,7 +13,7 @@ const language = {
 
   es: {
     title: "Hola! Soy Juan",
-    subtitle: "Desarrollador Fullstack +2 años de experiencia",
+    subtitle: "Desarrollador Fullstack",
     data: [
       "Soy un apasionado Desarrollador Web Fullstack con +2 años de experiencia. Tengo experiencia creando aplicaciones web con JavaScript / TypeScript / Solidity / React.js / Redux / React-native / Node.js / Express / PostgreSQL / MySQL / Sequelize / MongoDB / Mongoose / AWS / Redis / HTML5 / CSS / SASS.",
       "Me encantan las buenas prácticas y soy muy curioso al programar. Me encanta la tecnologia y eso me genera una actitud proactiva aprendiendo todos los dias, y mejorando mis habilidades",
