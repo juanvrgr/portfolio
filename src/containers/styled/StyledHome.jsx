@@ -54,7 +54,6 @@ export const StyledHome = styled.div`
           : "linear-gradient(to right, black, black 50%, gray 50%)"};
       background-clip: text;
       -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
       background-size: 200% 100%;
       background-position: 100%;
       transition: background-position 275ms ease;
