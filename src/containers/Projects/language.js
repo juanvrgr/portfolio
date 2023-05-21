@@ -1,18 +1,18 @@
 const language = {
   real_2: {
     es: [
-      "Proyecto real. Desarrollo de una aplicación de gestión y planificación de redes sociales. Entre otras funcionalidades, la aplicación permite crear un cliente, conectar hasta siete redes sociales, planificar o publicar instantáneamente con un calendario y seguir tus analíticas a través de todas las APIs de las redes sociales. También incluye un sistema de facturación, blog de la comunidad, sistema de contacto y más. Tecnologías usadas: React, NextJS, TypeScript, Strapi, NodeJS, AWS, Git, Scrum"
+      "Proyecto profesional. Desarrollo de una aplicación de gestión y planificación de redes sociales. Entre otras funcionalidades, la aplicación permite crear un cliente, conectar hasta siete redes sociales, planificar o publicar instantáneamente con un calendario y seguir tus analíticas a través de todas las APIs de las redes sociales. También incluye un sistema de facturación, blog de la comunidad, sistema de contacto y más. Tecnologías usadas: React, NextJS, TypeScript, Strapi, NodeJS, AWS, Git, Scrum"
     ],
     en: [
-      "Real project. Development of a social manager and scheduler application. Among other functionalities, the application let users create a client, connect up to seven social medias, schedule or instant post with a calendar and follow your analytics through all social medias APIs. It also includes a billing system, community blog, contact system and more. Technologies used: React, NextJS, TypeScript, Strapi, NodeJS, AWS, Git, Scrum"
+      "Professional project. Development of a social manager and scheduler application. Among other functionalities, the application let users create a client, connect up to seven social medias, schedule or instant post with a calendar and follow your analytics through all social medias APIs. It also includes a billing system, community blog, contact system and more. Technologies used: React, NextJS, TypeScript, Strapi, NodeJS, AWS, Git, Scrum"
     ],
   },
   real_1: {
     es: [
-      "Proyecto real. Desarrollé una aplicación móvil en Frontend y Backend para una aplicación que conecta transportistas, con clientes y empresas, para distribución masiva de productos. Tres aplicaciones diferentes, una para cada rol. Chat Bot, Scanner QR, Geolocalización, Notificaciones Push, Subida de Documentos, etc. Usé React Native (Expo) NodeJS, MySQL, Docker, Git"
+      "Proyecto profesional. Desarrollé una aplicación móvil en Frontend y Backend para una aplicación que conecta transportistas, con clientes y empresas, para distribución masiva de productos. Tres aplicaciones diferentes, una para cada rol. Chat Bot, Scanner QR, Geolocalización, Notificaciones Push, Subida de Documentos, etc. Usé React Native (Expo) NodeJS, MySQL, Docker, Git"
     ],
     en: [
-      "Real project. Developed mobile app in Frontend and Backend for mobile and web app for an application that connects carriers, with clients and companies, for mass product distribution. Three different apps, one for each role. Chat Bot, QR scanner, Geolocation, Push Notifications, Document Upload, etc. Used React Native (Expo) NodeJS, MySQL, Docker, Git"
+      "Professional project. Developed mobile app in Frontend and Backend for mobile and web app for an application that connects carriers, with clients and companies, for mass product distribution. Three different apps, one for each role. Chat Bot, QR scanner, Geolocation, Push Notifications, Document Upload, etc. Used React Native (Expo) NodeJS, MySQL, Docker, Git"
     ],
   },
   movie: {
@@ -37,34 +37,6 @@ const language = {
     ],
     en: [
       "Personal project, used the CoinGecko API, you can see all cryptocurrency price in real time in ranking order. If you tap on any token, you can see the chart and filter by different days, months or all time, and also add it to your watchlist! Also you can create your own portfolio to track all your tokens and the price in real time. The technologies used were: React Native, Expo, React Navigation and Recoil.",
-    ],
-  },
-  dogs: {
-    es: [
-      "Segundo projecto realizado para el bootcamp Henry, en el cual puedes buscar razas de perro por nombre, ver su información y ademas agregar tus propias razas!",
-      "Las tecnologías usadas fueron: React.js, Redux, Node.js, Express, Sequelize y PostgreSQL"
-    ],
-    en: [
-      "Second project carried out for the Henry bootcamp, in which you can search for dog breeds by name, see all breed details and also add your own dog breed!",
-      "The technologies used were: React.js, Redux, Node.js, Express, Sequelize and PostgreSQL"
-    ],
-  },
-  food: {
-    es: [
-      "Primer projecto realizado para el bootcamp Henry, en el cual puedes buscar recetas por nombre, ver su información y ademas agregar tus propias recetas!",
-      "Las tecnologías usadas fueron: React.js, Redux, Node.js, Express, Sequelize y PostgreSQL",
-    ],
-    en: [
-      "First project carried out for the Henry bootcamp, in which you can search for recipes by name, see all recipes details and also add your recipes!",
-      "The technologies used were: React.js, Redux, Node.js, Express, Sequelize and PostgreSQL",
-    ],
-  },
-  weather: {
-    es: [
-      "Aplicacion hecha durante cursada del Bootcamp Henry, en ella se pueden buscar paises y devuelve el clima actual en el mismo haciendo uso de una API externa (openweathermap)",
-    ],
-    en: [
-      "Application made during the Henry Bootcamp, in it you can search for countries and return the current climate in it using an external API (OpenWeatherMap)",
     ],
   },
 }
