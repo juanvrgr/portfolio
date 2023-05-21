@@ -24,7 +24,7 @@ const projectsList = [
     id: "dapp",
     title: "USA Vote DAPP",
     repo: "https://github.com/juanvrgr/backend-dApp",
-    //link: "https://waveportal-starter-project.juanvergara5.repl.co/",
+    link: "https://waveportal-starter-project.juanvergara5.repl.co/",
     img: "https://i.imgur.com/ElWH3wL.png",
   },
   {
