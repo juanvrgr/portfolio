@@ -119,9 +119,7 @@ export const StyledHome = styled.div`
       }
 
       .subtitle {
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        display: none;
       }
     }
   }
