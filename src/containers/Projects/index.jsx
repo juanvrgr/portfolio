@@ -13,7 +13,7 @@ export const Projects = ({ language }) => {
         {projectsList.map((el) => {
           return (
             <li key={el.id}>
-              <img src={el.img} alt="Web Preview" className="preview" />
+              <img src={el.img} alt="Web Preview" className="preview" height={46} width={256} />
               <div className="data">
                 <div>
                   {el.title.split("").map((char, i) => (
