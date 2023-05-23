@@ -118,7 +118,11 @@ export const StyledHome = styled.div`
         font-size: 1.1rem;
       }
 
-      
+      .subtitle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
     }
   }
 `;
