@@ -15,6 +15,14 @@ const language = {
       "Professional project. Developed mobile app in Frontend and Backend for mobile and web app for an application that connects carriers, with clients and companies, for mass product distribution. Three different apps, one for each role. Chat Bot, QR scanner, Geolocation, Push Notifications, Document Upload, etc. Used React Native (Expo) NodeJS, MySQL, Docker, Git"
     ],
   },
+  minecraft_clone: {
+    es: [
+      "Proyecto personal, desarrollé un clon básico de Minecraft, JavaScript, React y Three.js. Podes añadir o remover bloques, saltar, correr, cambiar el tipo de bloque y más. También podes guardar tu mundo y cargarlo cuando quieras."
+    ],
+    en: [
+      "Personal project, I developed a basic clone of Minecraft using JavaScript, React, and Three.js. You can add or remove blocks, jump, run, change block types, and more. You can also save your world and load it whenever you want."
+    ],
+  },
   movie: {
     es: [
       "Proyecto grupal hecho para el Henry Bootcamp, una pagina que cualquier cine desearía tener. Register y login, busca por todas las películas que tenemos en estreno (las próximas a estrenar y las mejores calificadas tambien), mira todo el detalle de la película que deseees, apartado para buscar golosinas varias, y obviamente, la posibilidad de agregar tickets para películas y golosinas a nuestro carrito de compras, y una vez que estes listo, podes pagar todo mediante MercadoPago! Además, tenemos un panel de administrador muy completo, para administrar todas las películas, tus golosinas, y tus usuarios. Las tecnologías usadas fueron: React.js, Redux y SASS para el Frontend, y Node.js (Express) con PostgreSQL (conectado via Sequelize) para el Backend.",
