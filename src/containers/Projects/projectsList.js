@@ -14,6 +14,13 @@ const projectsList = [
     img: "https://i.imgur.com/5kbyWu7.png"
   },
   {
+    id: "minecraft-clone",
+    title: "Minecraft Basic Clone",
+    repo: "https://github.com/juanvrgr/minecraft-basic-clone",
+    link: "https://minecraft-basic-clone.vercel.app/",
+    img: "https://i.imgur.com/LwsXNTF.png"
+  },
+  {
     id: "movie",
     title: "Movie Mark",
     repo: "https://github.com/CandelaPedelhez/Moviemark",
