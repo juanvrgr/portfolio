@@ -31,12 +31,12 @@ const language = {
       "Group project carried out for the Henry bootcamp, a page any cinema desires! Register and login, look for all the premiere movies (upcoming and top rated also), see all the movie details, search for our tasty groceries, and of course add tickets or groceries to our shopping cart, and once you are ready you can pay via MercadoPago. Also, we have a complete admin panel, to manage all your movies, groceries and users! The technologies used were: React.js, Redux and SASS for the Frontend and Node.js (Express) with PostgreSQL (connected via Sequelize) for the Backend",
     ],
   },
-  dapp: {
+  rewiki: {
     es: [
-      "Aplicación descentralizada hecha para votar un candidato para las elecciones, en este caso, de Estados Unidos. Montada en la red de Ethereum, inicia sesion con MetaMask para votar. Mediante el uso de smart contracts, quedan todos los votos registrados en la blockchain para ser contados sin fraude. Posibilidad de votar en blanco o nulo también! Solo se puede votar una vez por direccion, y tenes una chance de recibir una pequeña cantidad de Ethereum tras votar! Las tecnologías usadas fueron: React.js, Ethers y CSS para el Frontend, y Solidity (con HardHat y Ethers) y JavaScript para el Backend."
+      "Desarrollé una wiki sobre los juegos e historia de Resident Evil. Es una aplicación de una sola página (SPA) en la que, al comenzar a desplazarte, te sumergirás en el universo de Resident Evil, empezando por el primer juego y avanzando a través de todos los juegos canónicos enumerados en la saga. Puedes ver el epílogo de cada juego y la lista de personajes. Puedes seleccionar un personaje de la lista para ver su resumen y papel en el juego. Cada juego está acompañado de imágenes relevantes. También es compatible con dispositivos móviles. Las tecnologías utilizadas fueron: TypeScript, Next, React, TailwindCSS y Gsap."
     ],
     en: [
-      "DAPP made to vote a candidate for USA elections in this case. Done in the Ethereum blockchain, login with MetaMask to vote. Using smart contracts, you can see all the voted registered in the blockchain, this way you can avoid any fraud. You can also vote null or blank! You can only vote once per address, and you have a chance to win a small amount of ETH after voting! The technologies used were: React.js, Ethers and CSS for the Frontend, and Solidity (with HardHat and Ethers) & JavaScript for the Backend."
+      "Developed a wiki for Resident Evil games and history. It's an SPA that, when you start scrolling, you will begin immersing yourself in the Resident Evil universe, starting from the first game and progressing through all canon games enumerated in the saga. You can view the epilogue of every game and the list of characters. You can select a character from the list to see their summary and role in the game. Each game is accompanied by relevant images. It is also mobile responsive. The technologies used were: TypeScript, Next, React, TailwindCSS and Gsap."
     ],
   },
   crypto: {

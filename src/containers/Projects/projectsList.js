@@ -21,18 +21,18 @@ const projectsList = [
     img: "https://i.imgur.com/LwsXNTF.png"
   },
   {
-    id: "movie",
-    title: "Movie Mark",
-    repo: "https://github.com/CandelaPedelhez/Moviemark",
-    link: "https://www.youtube.com/watch?v=j1T8vVoPyCU",
-    img: "https://i.imgur.com/y3cUQMY.png",
+    id: "rewiki",
+    title: "Resident Evil Wiki",
+    repo: "https://github.com/juanvrgr/resident-evil-wiki",
+    link: "https://resident-evil-wiki.vercel.app/",
+    img: "https://i.imgur.com/mAPLHIc.png",
   },
   {
-    id: "dapp",
-    title: "USA Vote DAPP",
-    repo: "https://github.com/juanvrgr/backend-dApp",
-    link: "https://waveportal-starter-project.juanvergara5.repl.co/",
-    img: "https://i.imgur.com/ElWH3wL.png",
+    id: "movie",
+    title: "Movie Mark",
+    repo: "https://github.com/juanvrgr/Moviemark",
+    link: "https://www.youtube.com/watch?v=j1T8vVoPyCU",
+    img: "https://i.imgur.com/y3cUQMY.png",
   },
   {
     id: "crypto",
