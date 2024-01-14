@@ -3,7 +3,7 @@ const language = {
     title: "Hi! I'm Juan",
     subtitle: "Fullstack Developer",
     data: [
-      "I am a passionate Full Stack Web Developer with +2 years of experience. I have experience building web applications with JavaScript / TypeScript / Solidity / React.js / Redux / React-Native / Node.js / Express / PostgreSQL / MySQL / Sequelize / MongoDB / Mongoose / AWS / Redis / HTML5 / CSS / SASS.",
+      "I am a passionate Full Stack Web Developer with 2.5 years of experience. I have experience building web applications with JavaScript / TypeScript / Solidity / React.js / Redux / React-Native / Node.js / Express / PostgreSQL / MySQL / Sequelize / MongoDB / Mongoose / AWS / Redis / HTML5 / CSS / SASS.",
       "I love good practices and I'm very curious when developing. I love tech which leads me to a proactive attitude learning every day, and wanting to improve my skills.",
       "I invite you to see my resume to see more details about my experience and my projects."
     ],
