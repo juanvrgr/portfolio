@@ -33,10 +33,10 @@ const language = {
   },
   rewiki: {
     es: [
-      "Desarrollé una wiki sobre los juegos e historia de Resident Evil. Es una aplicación de una sola página (SPA) en la que, al comenzar a desplazarte, te sumergirás en el universo de Resident Evil, empezando por el primer juego y avanzando a través de todos los juegos canónicos enumerados en la saga. Puedes ver el epílogo de cada juego y la lista de personajes. Puedes seleccionar un personaje de la lista para ver su resumen y papel en el juego. Cada juego está acompañado de imágenes relevantes. También es compatible con dispositivos móviles. Las tecnologías utilizadas fueron: TypeScript, Next, React, TailwindCSS y Gsap."
+      "Proyecto personal, desarrollé una wiki sobre los juegos e historia de Resident Evil. Es una aplicación de una sola página (SPA) en la que, al comenzar a desplazarte, te sumergirás en el universo de Resident Evil, empezando por el primer juego y avanzando a través de todos los juegos canónicos enumerados en la saga. Puedes ver el epílogo de cada juego y la lista de personajes. Puedes seleccionar un personaje de la lista para ver su resumen y papel en el juego. Cada juego está acompañado de imágenes relevantes. También es compatible con dispositivos móviles. Las tecnologías utilizadas fueron: TypeScript, Next, React, TailwindCSS y Gsap."
     ],
     en: [
-      "Developed a wiki for Resident Evil games and history. It's an SPA that, when you start scrolling, you will begin immersing yourself in the Resident Evil universe, starting from the first game and progressing through all canon games enumerated in the saga. You can view the epilogue of every game and the list of characters. You can select a character from the list to see their summary and role in the game. Each game is accompanied by relevant images. It is also mobile responsive. The technologies used were: TypeScript, Next, React, TailwindCSS and Gsap."
+      "Personal project, developed a wiki for Resident Evil games and history. It's an SPA that, when you start scrolling, you will begin immersing yourself in the Resident Evil universe, starting from the first game and progressing through all canon games enumerated in the saga. You can view the epilogue of every game and the list of characters. You can select a character from the list to see their summary and role in the game. Each game is accompanied by relevant images. It is also mobile responsive. The technologies used were: TypeScript, Next, React, TailwindCSS and Gsap."
     ],
   },
   crypto: {
