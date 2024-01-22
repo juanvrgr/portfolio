@@ -38,7 +38,7 @@ const skills = {
     },
     {
       title: "SASS",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"
+      logo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-eoivg&psig=AOvVaw0kQG9Q_VZ1NlVhZnRc9oMe&ust=1706022025006000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDruO-h8YMDFQAAAAAdAAAAABAH"
     },
     {
       title: "TailwindCSS",
