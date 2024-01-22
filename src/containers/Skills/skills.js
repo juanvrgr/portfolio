@@ -10,11 +10,11 @@ const skills = {
     },
     {
       title: "Python",
-      logo: "https://c1.klipartz.com/pngpicture/33/1008/sticker-png-python-logo-programming-language-executable-computer-program-plex-data-software-development-kit-anaconda-thumbnail.png"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
     },
     {
       title: "Java",
-      logo: "https://c0.klipartz.com/pngpicture/829/216/gratis-png-plataforma-java-kit-de-desarrollo-de-la-edicion-estandar-de-java-software-informatico-entorno-de-ejecucion-java-jarra-de-cafe-thumbnail.png"
+      logo: "https://cdn.freelogovectors.net/wp-content/uploads/2023/07/java_logo_freelogovectors.net_.png"
     }
   ],
   front: [
