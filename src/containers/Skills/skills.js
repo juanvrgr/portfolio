@@ -9,9 +9,17 @@ const skills = {
       logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
     },
     {
+      title: "Python",
+      logo: "https://c1.klipartz.com/pngpicture/33/1008/sticker-png-python-logo-programming-language-executable-computer-program-plex-data-software-development-kit-anaconda-thumbnail.png"
+    },
+    {
+      title: "Java",
+      logo: "https://c0.klipartz.com/pngpicture/829/216/gratis-png-plataforma-java-kit-de-desarrollo-de-la-edicion-estandar-de-java-software-informatico-entorno-de-ejecucion-java-jarra-de-cafe-thumbnail.png"
+    }
+`    {
       title: "Solidity",
       logo: "https://losmejorescursosde.com/wp-content/uploads/2021/09/solidity.png",
-    },
+    },`
   ],
   front: [
     {
