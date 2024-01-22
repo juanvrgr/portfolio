@@ -16,10 +16,6 @@ const skills = {
       title: "Java",
       logo: "https://c0.klipartz.com/pngpicture/829/216/gratis-png-plataforma-java-kit-de-desarrollo-de-la-edicion-estandar-de-java-software-informatico-entorno-de-ejecucion-java-jarra-de-cafe-thumbnail.png"
     }
-`    {
-      title: "Solidity",
-      logo: "https://losmejorescursosde.com/wp-content/uploads/2021/09/solidity.png",
-    },`
   ],
   front: [
     {
