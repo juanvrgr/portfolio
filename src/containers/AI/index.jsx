@@ -8,7 +8,7 @@ export default function AI({ language, dark }) {
       <div className="presentation">
         <h1>
           {strings[language].title.split("").map((char, i) => (
-            <span className="title name" key={char + i}>
+            <span style={{ color: "rgba(122, 170, 215, 0.8)" }} key={char + i}>
               {char}
             </span>
           ))}

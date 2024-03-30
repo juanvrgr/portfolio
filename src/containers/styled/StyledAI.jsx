@@ -11,7 +11,6 @@ export const StyledAI = styled.div`
   .presentation {
     align-self: flex-start;
     height: 20%;
-    margin-bottom: 3rem;
 
     .title {
       font-size: 2.5rem;
