@@ -8,8 +8,7 @@ export const StyledAI = styled.div`
   height: min-content;
 
   .presentation {
-    align-self: center;
-    justify-content: space-around;
+    align-self: flex-start;
     height: 20%;
     margin-bottom: 10rem;
 
