@@ -3,16 +3,16 @@ const language = {
 		home: 'Home',
 		skills: 'Skills',
 		projects: 'Projects',
-		contact: 'Contact',
 		ai: 'AI',
+		contact: 'Contact'
 	},
 
 	es: {
 		home: 'Inicio',
 		skills: 'Habilidades',
 		projects: 'Proyectos',
-		contact: 'Contacto',
 		ai: 'IA',
+		contact: 'Contacto'
 	},
 }
 
