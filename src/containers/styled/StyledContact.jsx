@@ -56,26 +56,10 @@ export const StyledContact = styled.div`
     }
   }
 
-  .openTag,
-  .closedTag,
   .closedMainTag {
     font-size: 1.2rem;
     font-weight: 1000;
     opacity: 60%;
-  }
-
-  .openTag {
-    position: relative;
-    left: 1rem;
-  }
-
-  .closedTag,
-  .closedMainTag {
-    align-self: flex-end;
-  }
-
-  .closedTag {
-    margin: 1rem 1.5rem;
   }
 
   @media screen and (max-width: 500px) {

@@ -56,8 +56,6 @@ export default function Home({ language, dark }) {
           {strings[language].resume}
         </a>
       </div>
-
-      <span className="openTag">{"<Portfolio>"}</span>
     </StyledHome>
   );
 }

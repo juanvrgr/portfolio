@@ -87,14 +87,6 @@ export const StyledHome = styled.div`
     }
   }
 
-  .openTag {
-    position: absolute;
-    bottom: 0;
-    font-size: 1.2rem;
-    font-weight: 1000;
-    opacity: 60%;
-  }
-
   @media screen and (max-width: 500px) {
     width: 100vw;
     flex-direction: column;

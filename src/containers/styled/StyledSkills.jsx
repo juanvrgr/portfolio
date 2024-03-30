@@ -54,22 +54,6 @@ export const StyledSkills = styled.div`
     }
   }
 
-  .openTag,
-  .closedTag {
-    font-size: 1.2rem;
-    font-weight: 1000;
-    opacity: 60%;
-  }
-
-  .openTag {
-    position: relative;
-    left: 1rem;
-  }
-
-  .closedTag {
-    align-self: flex-end;
-  }
-
   @keyframes bounce {
     0% {
       transform: scale(1, 1) translateY(0);

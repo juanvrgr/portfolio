@@ -55,7 +55,6 @@ export default function Contact({ language }) {
 
   return (
     <StyledContact id="Contact">
-      <span className="openTag">{"<Contact>"}</span>
       <form className="contact-form" onSubmit={sendEmail}>
         <input
           type="text"
@@ -87,8 +86,6 @@ export default function Contact({ language }) {
           disabled={true}
         />
       </form>
-      <span className="closedTag">{"</Contact>"}</span>
-      <span className="closedMainTag">{"</Portfolio>"}</span>
     </StyledContact>
   );
 }

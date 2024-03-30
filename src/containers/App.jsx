@@ -4,6 +4,7 @@ import Lateral from "../components/Lateral/";
 import Nav from "../components/Nav/";
 import Home from "./Home/";
 import Skills from "./Skills/";
+import AI from "./AI/";
 import { Projects } from "./Projects";
 import Contact from "./Contact";
 
@@ -69,6 +70,7 @@ function App() {
           <Home language={language} dark={mode === "dark"} />
           <Skills />
           <Projects language={language} />
+          <AI language={language} />
           <Contact language={language} />
         </div>
       </div>

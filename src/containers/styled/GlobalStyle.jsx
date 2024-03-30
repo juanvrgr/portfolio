@@ -73,11 +73,11 @@ export const GlobalStyle = createGlobalStyle`
 		filter: invert(${(props) => (props.dark ? "100%" : "0")})
 	}
 
-	.presentation, .openTag, .closedTag, .closedMainTag {
+	.presentation, .closedMainTag {
 		color: ${(props) => (!props.dark ? "black" : "#FFFF")};
 		cursor: default;
 	}
-	.openTag, .closedTag, .closedMainTag {
+	.closedMainTag {
 		transition: all 500ms ease;
 		&:hover {
 			opacity: 100%;

@@ -8,7 +8,6 @@ import string from "./language.js";
 export const Projects = ({ language }) => {
   return (
     <StyledProjects id="Projects">
-      <span className="openTag">{"<Projects>"}</span>
       <ul>
         {projectsList.map((el) => {
           return (
@@ -48,7 +47,6 @@ export const Projects = ({ language }) => {
           );
         })}
       </ul>
-      <span className="closedTag">{"</Projects>"}</span>
     </StyledProjects>
   );
 };

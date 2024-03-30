@@ -5,7 +5,6 @@ import skills from "./skills.js";
 export default function Skills() {
   return (
     <StyledSkills id="Skills">
-      <span className="openTag">{"<Skills>"}</span>
       <div className="primary">
         <ul>
           {skills.primary.map((el) => (
@@ -38,7 +37,6 @@ export default function Skills() {
           ))}
         </ul>
       </div>
-      <span className="closedTag">{"</Skills>"}</span>
     </StyledSkills>
   );
 }
