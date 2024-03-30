@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const StyledAI = styled.div`
+  padding: 2rem;
   display: flex;
   width: 90vw;
   position: relative;
@@ -9,7 +10,7 @@ export const StyledAI = styled.div`
   .presentation {
     align-self: center;
     height: 20%;
-    margin-bottom: 12rem;
+    margin-bottom: 2rem;
 
     .title {
       font-size: 2.5rem;
