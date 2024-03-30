@@ -35,12 +35,12 @@ function App() {
     const home = document.querySelector("#Home").offsetHeight / 2;
     const skills = document.querySelector("#Skills").offsetHeight + home;
     const projects = document.querySelector("#Projects").offsetHeight + skills;
-    const contact = document.querySelector("#Contact").offsetHeight + projects;
-    if (scrollY > contact) {
-      return setPath("AI");
+    const ai = document.querySelector("#AI").offsetHeight + projects;
+    if (scrollY > ai) {
+      return setPath("Contact");
     }
     if (scrollY > projects) {
-      return setPath("Contact");
+      return setPath("AI");
     }
     if (scrollY > skills) {
       return setPath("Projects");
