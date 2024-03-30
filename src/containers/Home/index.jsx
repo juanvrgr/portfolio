@@ -37,11 +37,11 @@ export default function Home({ language, dark }) {
           {strings[language].subtitle}{" "}
           {
             language === 'en' &&
-            <span style={{ color: "rgba(122, 170, 215, 0.8)", display: "inline-block" }}>+2.5 years of experience</span>
+            <span style={{ color: "rgba(122, 170, 215, 0.8)", display: "inline-block" }}>3 years of experience</span>
           }
           {
             language === 'es' &&
-            <span style={{ color: "rgba(122, 170, 215, 0.8)", display: "inline-block" }}>+2.5 años de experiencia</span>
+            <span style={{ color: "rgba(122, 170, 215, 0.8)", display: "inline-block" }}>3 años de experiencia</span>
           }
         </h2>
         <p className="data">
