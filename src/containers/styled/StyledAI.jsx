@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 export const StyledAI = styled.div`
-  padding: 2rem;
   display: flex;
   width: 90vw;
   position: relative;
@@ -26,7 +25,7 @@ export const StyledAI = styled.div`
       font-size: 1.2rem;
       font-weight: 600;
       width: 75%;
-      margin-bottom: 3rem;
+      margin-top: 3rem;
     }
 
     .button {
