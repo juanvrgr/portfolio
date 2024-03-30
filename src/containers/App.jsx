@@ -37,7 +37,7 @@ function App() {
     const projects = document.querySelector("#Projects").offsetHeight + skills;
     const contact = document.querySelector("#Contact").offsetHeight + projects;
     if (scrollY > contact) {
-      return setPath("AI Contribution");
+      return setPath("AI");
     }
     if (scrollY > projects) {
       return setPath("Contact");
