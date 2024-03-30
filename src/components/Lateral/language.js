@@ -4,6 +4,7 @@ const language = {
 		skills: 'Skills',
 		projects: 'Projects',
 		contact: 'Contact',
+		ai: 'AI Contribution',
 	},
 
 	es: {
@@ -11,6 +12,7 @@ const language = {
 		skills: 'Habilidades',
 		projects: 'Proyectos',
 		contact: 'Contacto',
+		ai: 'Contribución a IA',
 	},
 }
 

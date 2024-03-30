@@ -33,6 +33,11 @@ export default function Lateral({ path, language }) {
             {strings[language].contact}
           </Link>
         </h3>
+        <h3>
+          <Link to="AI Contribution" spy={true} className="link" smooth duration={400}>
+            {strings[language].ai}
+          </Link>
+        </h3>
       </div>
     </StyledLateral>
   );
