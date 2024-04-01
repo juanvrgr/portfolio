@@ -41,6 +41,7 @@ export const StyledAI = styled.div`
       flex-direction: column;
       align-items: center;
       margin-bottom: 20vh;
+      width: 100%;
 
       .data {
         margin-top: 1rem;
