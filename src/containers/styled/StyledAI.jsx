@@ -32,6 +32,7 @@ export const StyledAI = styled.div`
   @media screen and (max-width: 500px) {
     width: 100vw;
     flex-direction: column;
+    padding: 0;
 
     .presentation {
       margin-top: 20vh;
