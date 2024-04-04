@@ -25,12 +25,11 @@ export const StyledAI = styled.div`
     .data {
       font-size: 1.2rem;
       font-weight: 600;
-      width: 75%;
+      width: 100%;
       margin-top: 3rem;
     }
 
   @media screen and (max-width: 500px) {
-    width: 100vw;
     flex-direction: column;
 
     .presentation {
