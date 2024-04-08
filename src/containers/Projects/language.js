@@ -1,4 +1,12 @@
 const language = {
+  bulkdeleter: {
+    es: [
+      "Proyecto profesional (en progreso). Desarrollo de una aplicación de gestión de correos electrónicos. Entre otras funcionalidades, la aplicación permite conectar una o varias cuentas de Gmail, eliminar correos electrónicos en masa, y suscribirse/dejar de suscribirse a correos electrónicos. También incluye un sistema de facturación, blog de la comunidad, sistema de contacto y más. Tecnologías usadas: React, Node, MySQL, AWS, Docker, Git"
+    ],
+    en: [
+      "Professional project (in progress). Development of an email management application. Among other functionalities, the application allows you to connect one or more Gmail accounts, delete emails in bulk, and subscribe/unsubscribe to emails. It also includes a billing system, community blog, contact system and more. Technologies used: React, Node, MySQL, AWS, Docker, Git"
+    ],
+  },
   real_2: {
     es: [
       "Proyecto profesional. Desarrollo de una aplicación de gestión y planificación de redes sociales. Entre otras funcionalidades, la aplicación permite crear un cliente, conectar hasta siete redes sociales, planificar o publicar instantáneamente con un calendario y seguir tus analíticas a través de todas las APIs de las redes sociales. También incluye un sistema de facturación, blog de la comunidad, sistema de contacto y más. Tecnologías usadas: React, NextJS, TypeScript, Strapi, NodeJS, AWS, Git, Scrum"

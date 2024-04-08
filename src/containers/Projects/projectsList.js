@@ -1,5 +1,12 @@
 const projectsList = [
   {
+    id: "bulkdeleter",
+    title: "Bulk Deleter (In Progress)",
+    repo: "",
+    link: "https://bulkdeleted.com/",
+    img: "https://i.imgur.com/tM8KCIg.png"
+  },
+  {
     id: "real_2",
     title: "Second Professional Project",
     repo: "",
