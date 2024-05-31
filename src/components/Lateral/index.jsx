@@ -9,7 +9,7 @@ export default function Lateral({ path, language }) {
     <StyledLateral className="Lateral" path={!!path}>
       <h1>{path}</h1>
       <Scrollspy
-        items={["Home", "Skills", "Projects", "AI", "Contact"]}
+        items={["Home", "Skills", "Projects", "Contact"]}
         currentClassName="active"
       />
       <div className="links">
@@ -26,11 +26,6 @@ export default function Lateral({ path, language }) {
         <h3>
           <Link to="Projects" spy={true} className="link" smooth duration={400}>
             {strings[language].projects}
-          </Link>
-        </h3>
-        <h3>
-          <Link to="AI" spy={true} className="link" smooth duration={400}>
-            {strings[language].ai}
           </Link>
         </h3>
         <h3>

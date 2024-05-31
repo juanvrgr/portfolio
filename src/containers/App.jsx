@@ -4,7 +4,6 @@ import Lateral from "../components/Lateral/";
 import Nav from "../components/Nav/";
 import Home from "./Home/";
 import Skills from "./Skills/";
-import AI from "./AI/";
 import { Projects } from "./Projects";
 import Contact from "./Contact";
 
@@ -35,12 +34,8 @@ function App() {
     const home = document.querySelector("#Home").offsetHeight / 2;
     const skills = document.querySelector("#Skills").offsetHeight + home;
     const projects = document.querySelector("#Projects").offsetHeight + skills;
-    const ai = document.querySelector("#AI").offsetHeight + projects;
-    if (scrollY > ai) {
-      return setPath("Contact");
-    }
     if (scrollY > projects) {
-      return setPath("AI");
+      return setPath("Contact");
     }
     if (scrollY > skills) {
       return setPath("Projects");
@@ -74,7 +69,6 @@ function App() {
           <Home language={language} dark={mode === "dark"} />
           <Skills />
           <Projects language={language} />
-          <AI language={language} />
           <Contact language={language} />
         </div>
       </div>
